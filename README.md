@@ -7,7 +7,7 @@
 
 | Nome | GitHub |
 |:--|:--|
-| Carlos Leonel | — |
+| Carlos Leonel | cxrlos99leonel |
 | Henrique Rodrigues | — |
 | Luis Bordin | — |
 | João Vitor Garçon | — |
