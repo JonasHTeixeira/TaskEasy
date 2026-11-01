@@ -7,11 +7,11 @@
 
 | Nome | GitHub |
 |:--|:--|
-| Carlos Leonel | cxrlos99leonel |
-| Henrique Rodrigues | — |
-| Luis Bordin | — |
-| João Vitor Garçon | — |
-| Jonas Henrique | — |
+| Carlos Leonel | [cxrlos99leonel](https://github.com/cxrlos99leonel) |
+| Henrique Rodrigues | [Henrique-Rodrigues132](https://github.com/Henrique-Rodrigues132) |
+| Luis Bordin | [LuisBordin](https://github.com/LuisBordin) |
+| João Vitor Garçon | [JoaoGarcon](https://github.com/JoaoGarcon) |
+| Jonas Henrique | [JonasHTeixeira](https://github.com/JonasHTeixeira) |
 
 ## Sobre o Projeto
 
